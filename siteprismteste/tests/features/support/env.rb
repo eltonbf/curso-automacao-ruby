@@ -1,4 +1,5 @@
-require 'cucumber'
+require 'capybara/cucumber'
+#require 'cucumber'
 require 'selenium-webdriver'
 require 'site_prism'
 
