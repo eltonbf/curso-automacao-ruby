@@ -3,7 +3,7 @@ Quando('preencho o formulario.') do
   
     #preencher do metodo
     @home.preencher
-    sleep 5
+    #sleep 5
 
     #chamar só o elemento
     # @mapeando.nome.set 'Elton'
